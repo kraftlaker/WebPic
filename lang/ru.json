@@ -1,0 +1,20 @@
+{
+    "title": "WebPic - Конвертер изображений",
+    "files_list": "Список файлов:",
+    "export_format": "Формат экспорта:",
+    "quality_jpeg": "Качество JPEG",
+    "export_button": "Экспортировать",
+    "add_button": "+ Добавить файл(ы)",
+    "remove_button": "X Убрать файл(ы)",
+    "success": "Экспорт успешно завершен!",
+    "error": "Ошибка",
+    "no_files_selected": "Не выбрано ни одного файла для экспорта.",
+    "select_export_dir": "Выберите папку для экспорта",
+    "selected_quality": "Выбрано качество",
+    "settings": "Настройки",
+    "language": "Язык:",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "warning": "Предупреждение",
+    "no_file_selected_to_remove": "Не выбран файл для удаления."
+}

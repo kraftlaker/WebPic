@@ -1,0 +1,20 @@
+{
+    "title": "WebPic - Image Converter",
+    "files_list": "Files List:",
+    "export_format": "Export Format:",
+    "quality_jpeg": "JPEG Quality",
+    "export_button": "Export",
+    "add_button": "+ Add File(s)",
+    "remove_button": "X Remove File(s)",
+    "success": "Export completed successfully!",
+    "error": "Error",
+    "no_files_selected": "No files selected for export.",
+    "select_export_dir": "Select export directory",
+    "settings": "Settings",
+    "selected_quality": "Selected quality",
+    "language": "Language:",
+    "save": "Save",
+    "cancel": "Cancel",
+    "warning": "Warning",
+    "no_file_selected_to_remove": "No file selected to remove."
+}
